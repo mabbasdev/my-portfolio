@@ -1,0 +1,164 @@
+abbas
+    ├── assets
+    │   ├── css
+    │   │   ├── animate.min.css
+    │   │   ├── backToTop.css
+    │   │   ├── bootstrap.min.css
+    │   │   ├── flaticon_gerold.css
+    │   │   ├── font-awesome-pro.min.css
+    │   │   ├── light-mode.css
+    │   │   ├── magnific-popup.css
+    │   │   ├── main-2.css
+    │   │   ├── main-3.css
+    │   │   ├── main.css
+    │   │   ├── meanmenu.css
+    │   │   ├── nice-select.css
+    │   │   ├── odometer-theme-default.css
+    │   │   ├── owl.carousel.min.css
+    │   │   ├── owl.video.play.html
+    │   │   ├── responsive-2.css
+    │   │   ├── responsive-3.css
+    │   │   ├── responsive.css
+    │   │   └── swiper.min.css
+    │   ├── fonts
+    │   │   ├── fa-brands-400.ttf
+    │   │   ├── fa-brands-400.woff2
+    │   │   ├── fa-duotone-900.ttf
+    │   │   ├── fa-duotone-900.woff2
+    │   │   ├── fa-light-300.ttf
+    │   │   ├── fa-light-300.woff2
+    │   │   ├── fa-regular-400.ttf
+    │   │   ├── fa-regular-400.woff2
+    │   │   ├── fa-sharp-light-300.ttf
+    │   │   ├── fa-sharp-light-300.woff2
+    │   │   ├── fa-sharp-regular-400.ttf
+    │   │   ├── fa-sharp-regular-400.woff2
+    │   │   ├── fa-sharp-solid-900.ttf
+    │   │   ├── fa-sharp-solid-900.woff2
+    │   │   ├── fa-solid-900.ttf
+    │   │   ├── fa-solid-900.woff2
+    │   │   ├── fa-thin-100.ttf
+    │   │   ├── fa-thin-100.woff2
+    │   │   ├── fa-v4compatibility.ttf
+    │   │   ├── fa-v4compatibility.woff2
+    │   │   ├── flaticon_geroldd88e.eot
+    │   │   ├── flaticon_geroldd88e.svg
+    │   │   ├── flaticon_geroldd88e.ttf
+    │   │   ├── flaticon_geroldd88e.woff
+    │   │   └── flaticon_geroldd88e.woff2
+    │   ├── img
+    │   │   ├── blog
+    │   │   │   ├── 1.jpg
+    │   │   │   ├── 2.jpg
+    │   │   │   ├── 3.jpg
+    │   │   │   ├── blog-1.jpg
+    │   │   │   ├── blog-2.jpg
+    │   │   │   ├── blog-3.jpg
+    │   │   │   ├── blog-4.jpg
+    │   │   │   ├── post-thumb-1.jpg
+    │   │   │   ├── post-thumb-2.jpg
+    │   │   │   ├── post-thumb-3.jpg
+    │   │   │   ├── user-1.jpg
+    │   │   │   ├── user-2.jpg
+    │   │   │   ├── user-3.jpg
+    │   │   │   └── user-4.jpg
+    │   │   ├── brand
+    │   │   │   ├── brand-1.png
+    │   │   │   ├── brand-2.png
+    │   │   │   ├── brand-3.png
+    │   │   │   ├── brand-4.png
+    │   │   │   ├── brand-5.png
+    │   │   │   ├── brand-6.png
+    │   │   │   ├── brand-l-1.png
+    │   │   │   ├── brand-l-2.png
+    │   │   │   ├── brand-l-3.png
+    │   │   │   ├── brand-l-4.png
+    │   │   │   ├── brand-l-5.png
+    │   │   │   └── brand-l-6.png
+    │   │   ├── breadcrumb
+    │   │   │   └── breadcrumb-bg.jpg
+    │   │   ├── hero
+    │   │   │   ├── about-1.png
+    │   │   │   ├── hero-2.png
+    │   │   │   └── me.png
+    │   │   ├── icons
+    │   │   │   ├── after-effects.png
+    │   │   │   ├── capcut.png
+    │   │   │   ├── davinci-resolve.png
+    │   │   │   ├── down-arrow-light.svg
+    │   │   │   ├── down-arrow.svg
+    │   │   │   ├── expressjs.svg
+    │   │   │   ├── figma.svg
+    │   │   │   ├── js.svg
+    │   │   │   ├── mongodb.svg
+    │   │   │   ├── nodejs.svg
+    │   │   │   ├── premiere-pro.png
+    │   │   │   ├── react.svg
+    │   │   │   ├── star.svg
+    │   │   │   ├── wp.svg
+    │   │   │   └── xd.svg
+    │   │   ├── logo
+    │   │   │   ├── logo-dark.png
+    │   │   │   └── logo.png
+    │   │   ├── placeholders
+    │   │   │   ├── placeholder-16-9.png
+    │   │   │   └── placeholder-9-16.png
+    │   │   ├── portfolio
+    │   │   │   ├── 1.jpg
+    │   │   │   ├── 2.jpg
+    │   │   │   ├── 3.jpg
+    │   │   │   ├── 4.jpg
+    │   │   │   └── modal-img.jpg
+    │   │   ├── portfolio-gallery
+    │   │   │   ├── p-gallery-1.jpg
+    │   │   │   ├── p-gallery-2.jpg
+    │   │   │   ├── p-gallery-3.jpg
+    │   │   │   └── p-gallery-4.jpg
+    │   │   ├── project
+    │   │   │   ├── project-1.png
+    │   │   │   ├── project-2.png
+    │   │   │   ├── project-3.png
+    │   │   │   ├── project-4.png
+    │   │   │   └── project-5.png
+    │   │   ├── services
+    │   │   │   └── modal-img.jpg
+    │   │   ├── testimonials
+    │   │   │   ├── logo
+    │   │   │   │   ├── 1-dark.png
+    │   │   │   │   ├── 1.png
+    │   │   │   │   ├── 2-dark.png
+    │   │   │   │   └── 2.png
+    │   │   │   └── user
+    │   │   │       ├── 1.jpg
+    │   │   │       ├── 1.png
+    │   │   │       └── 2.jpg
+    │   │   └── favicon.png
+    │   ├── js
+    │   │   ├── appear.min.js
+    │   │   ├── backToTop.js
+    │   │   ├── bootstrap.bundle.min.js
+    │   │   ├── gsap.min.js
+    │   │   ├── imagesloaded-pkgd.js
+    │   │   ├── isotope.pkgd.min.js
+    │   │   ├── jquery.min.js
+    │   │   ├── lenis.min.js
+    │   │   ├── lightcase.js
+    │   │   ├── magnific-popup.js
+    │   │   ├── main.js
+    │   │   ├── meanmenu.js
+    │   │   ├── nice-select.min.js
+    │   │   ├── odometer.min.js
+    │   │   ├── owl.carousel.min.js
+    │   │   ├── ScrollTrigger.min.js
+    │   │   ├── slider.js
+    │   │   ├── swiper.min.js
+    │   │   ├── validate.min.js
+    │   │   └── wow.min.js
+    │   └── media
+    │       ├── placeholder.png
+    │       ├── poster.jpg
+    │       ├── sample-1.jpg
+    │       ├── sample-1.mp4
+    │       ├── sample.mp4
+    │       └── showreel.mp4
+    └── index.html
