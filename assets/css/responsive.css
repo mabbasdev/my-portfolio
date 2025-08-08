@@ -1798,7 +1798,7 @@
 	}
 }
 
-@media only screen and (min-width: 425px) {
+@media only screen and (min-width: 425px) and (max-width: 529px ) {
 	.portfolio-filter .button-group button {
 		font-size: 14px;
 		padding: 10px 6px;
