@@ -1577,17 +1577,13 @@ body.loaded {
 .portfolio-box .image-box {
 	text-align: center;
 	width: 100%;
-	height: 432px;
+	/* height: 432px; */
 	overflow: hidden;
 	position: relative;
 }
 
 .portfolio-box .image-box img {
 	transition: transform 8s linear;
-}
-
-.image-box:hover img {
-	transform: translateY(calc(-100% + 680px));
 }
 
 .portfolio-box .content-box {
